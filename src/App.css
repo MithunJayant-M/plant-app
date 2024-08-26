@@ -40,13 +40,14 @@ nav a:hover {
 
 .landing-page h1 {
   font-size: 3rem;
-  color: #fff;
+  color:black;
   margin-bottom: 20px;
 }
 
 .landing-page p {
-  font-size: 1.2rem;
-  color: #fff;
+  font-size: 1.5rem;
+  color:black;
+  font-weight: bolder;
   margin-bottom: 40px;
 }
 
@@ -130,4 +131,5 @@ nav a:hover {
 
 .shopping-cart-page button {
   margin-top: 20px;
+  padding-right: 20px;
 }
