@@ -32,7 +32,7 @@ nav a:hover {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: url('/path/to/your/plantbg.jpeg');
+  background-image: url('/path/to/your/plantbg.jpg');
   background-size: cover;
   background-position: center;
   text-align: center;
