@@ -3,8 +3,8 @@ import Header from '../components/Header';
 import ProductCard from '../components/ProductCard';
 
 // Import images
-import plant1 from '../assets/plant1.jpg';
-import plant2 from '../assets/plant2.jpg';
+import plant1 from '../assets/plant1.jpeg';
+import plant2 from '../assets/plant2.jpeg';
 // Add more imports as needed
 
 const products = [
